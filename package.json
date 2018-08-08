@@ -1,6 +1,6 @@
 {
   "name": "cordova-inappbrowser-crosswalk",
-  "version": "1.0.0",
+  "version": "0.3.0",
   "description": "cordova-plugin-inappbrowser-crosswalk",
   "cordova": {
     "id": "org.apache.cordova.inappbrowser",
