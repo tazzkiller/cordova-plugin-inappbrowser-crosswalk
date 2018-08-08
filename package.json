@@ -1,0 +1,17 @@
+
+  "name": "cordova-plugin-inappbrowser-crosswalk",
+  "version": "1.0.0",
+  "description": "cordova-plugin-inappbrowser-crosswalk",
+  "cordova": {
+    "id": "org.apache.cordova.inappbrowser",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "inappbrowser"
+  ]
+}
