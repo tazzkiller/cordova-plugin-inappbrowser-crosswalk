@@ -5,8 +5,7 @@
   "cordova": {
     "id": "org.apache.cordova.inappbrowser",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "keywords": [
